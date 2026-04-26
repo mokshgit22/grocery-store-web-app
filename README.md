@@ -14,5 +14,11 @@ This is a full-stack grocery store web application built using Flask and MySQL.
 - Add to cart
 - Order placement
 
+## 📂 Project Structure
+- app.py
+- templates/
+- static/
+- database/
+
 
 
